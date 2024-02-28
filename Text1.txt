@@ -3,3 +3,5 @@ undo ctrl+z
 cut ctrl+x
 
 copy ctrl+c
+
+save ctrl+s
