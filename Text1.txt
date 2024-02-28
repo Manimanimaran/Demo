@@ -1,1 +1,3 @@
 undo ctrl+z
+
+cut ctrl+x
